@@ -1,0 +1,23 @@
+<resources>
+    <string name="phone_store">Phone Store</string>
+    <string name="nama_pembeli">Customer Name : </string>
+    <string name="kode_barang">Code Item : </string>
+    <string name="jumlah_barang">Amount Item : </string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="reguler">Reguler</string>
+    <string name="proses">Proses</string>
+    <string name="have_a_good_day">Have a Good Day</string>
+    <string name="total_belanja">Total Expenditure</string>
+    <string name="share">Share</string>
+    <string name="app_name" />
+    <string name="bon_belanja">Bon Belanja</string>
+    <string name="share_with">Share With</string>
+    <string name="nama_barang">Item Name : </string>
+    <string name="harga_barang">Price Item : </string>
+    <string name="total_harga_barang">Total Price Item : </string>
+    <string name="diskon_membership">Discount Membership : </string>
+    <string name="diskon_barang">Discount Item : </string>
+    <string name="total_pembayaran">Total Peyment : </string>
+    <string name="Bagikan_Dengan" />
+</resources>

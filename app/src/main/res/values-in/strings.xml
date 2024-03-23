@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="phone_store">Toko Handphone</string>
+    <string name="nama_pembeli">Nama Pembeli : </string>
+    <string name="kode_barang">Kode Barang : </string>
+    <string name="jumlah_barang">Jumlah Barang : </string>
+    <string name="gold">Emas</string>
+    <string name="silver">Perak</string>
+    <string name="reguler">Biasa</string>
+    <string name="proses">Proses</string>
+    <string name="have_a_good_day">Semoga Harimu Menyenangkan</string>
+    <string name="total_belanja">Total Belanja</string>
+    <string name="share">Berbagi</string>
+    <string name="bon_belanja">Bon Belanja</string>
+    <string name="share_with">Bagikan Dengan</string>
+    <string name="app_name" />
+    <string name="Bagikan_Dengan" />
+    <string name="nama_barang">Nama Barang : </string>
+    <string name="harga_barang">Harga Barang : </string>
+    <string name="total_harga_barang">Total Harga Barang : </string>
+    <string name="diskon_membership">Diskon Membership : </string>
+    <string name="diskon_barang">Diskon Barang : </string>
+    <string name="total_pembayaran">Total Pembayaran : </string>
+
+
+</resources>

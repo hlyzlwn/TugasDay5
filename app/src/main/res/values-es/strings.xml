@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_store">Tienda de Telefonos</string>
+    <string name="nama_pembeli">Nombre del comprador : </string>
+    <string name="kode_barang">Código del objetog : </string>
+    <string name="jumlah_barang">la cantidad de bienes : </string>
+    <string name="gold">Oro</string>
+    <string name="silver">Plata</string>
+    <string name="reguler">Regular</string>
+    <string name="proses">Proceso</string>
+    <string name="have_a_good_day">Que tenga un lindo día</string>
+    <string name="total_belanja">Compras totales</string>
+    <string name="share">CompartirShare</string>
+    <string name="bon_belanja">Bono de compras</string>
+    <string name="share_with">compartir con</string>
+    <string name="app_name" />
+    <string name="Bagikan_Dengan" />
+    <string name="nama_barang">Nombre de Dioses : </string>
+    <string name="harga_barang">Precio de los bienes : </string>
+    <string name="total_harga_barang">Precio total de los bienes : </string>
+    <string name="diskon_membership">Descuento de membresía : </string>
+    <string name="diskon_barang">descuento en bienes : </string>
+    <string name="total_pembayaran">Pago total : </string>
+
+</resources>
